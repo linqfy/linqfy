@@ -13,7 +13,6 @@ I'm developing my portfolio so you can see in what I'm working on.
 - 💻 My languages ... <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="60"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="60"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="60"><img src="https://icons-for-free.com/iconfiles/png/512/python+plain-1324760559810704105.png" width="60"> and some more... 
 <br>
-- 😄 Pronouns: he/him
 
 ---
 
