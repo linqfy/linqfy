@@ -4,9 +4,7 @@
 
 ---
 
-I'm a student, looking forward to becoming a software engineer. 
-
-I'm developing my portfolio so you can see in what I'm working on.
+Someone with a computer that writes code for fun
 
 ---
 
