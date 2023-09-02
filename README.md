@@ -15,7 +15,7 @@ Someone with a computer that writes code for fun
 ---
 
 - 📫 How to reach me:
-Discord: linqfy#3098
+Discord: linqfy#0001
 <!--
 **linqfy/linqfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
