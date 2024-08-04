@@ -9,7 +9,6 @@
     📖 Graphic Design • UI/UX
 </pre>
 <br><br>
-<img src="https://r2.e-z.host/d86d57de-bcad-4f1a-85b2-483f11ccecb8/qnjnkvx0.png" height="60" />
-<br><br>
-  <a href='https://e-z.bio/✧'>E-Z Bio</a>
+<a href='https://e-z.bio/✧'><img src="https://r2.e-z.host/d86d57de-bcad-4f1a-85b2-483f11ccecb8/qnjnkvx0.png" height="60" /></a>
+
 </div>
