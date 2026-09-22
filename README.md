@@ -6,7 +6,7 @@
 
 ### linqfy
 
-<img align="right" width="48%" src="https://github-stats-extended.vercel.app/api?username=linqfy&show_icons=true&include_all_commits=true&theme=dark">
+<a href="https://github.com/linqfy"><img align="right" width="48%" src="https://github-stats-extended.vercel.app/api?username=linqfy&show_icons=true&include_all_commits=true&theme=dark"></a>
 
 i make software.
 
@@ -22,7 +22,7 @@ currently exploring:
 `game internals` · `ai` · `networking` · `simulation` · `security`
 <br clear="right">
 
-<img align="right" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=linqfy&repo=IdpKit&theme=dark">
+<a href="https://github.com/linqfy/IdpKit"><img align="right" width="48%" src="https://github-stats-extended.vercel.app/api/pin?username=linqfy&repo=IdpKit&theme=dark"></a>
 some work:
 
 * [IdPKit](https://github.com/linqfy/IdpKit)
